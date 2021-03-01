@@ -23,13 +23,13 @@ Essas são as tecnologias que foram utilizadas no desenvolvimento da aplicação
 ## :computer: A aplicação
 
 <div style="display: flex; align-items: 'center'; justify-content: space-evenly; margin-bottom: 20px">
-  <img src="./.github/move.it.png" width="400px">
-  <img src="./.github/move.it(1).png"  width="400px">
+  <img src="https://github.com/gustavohrgomes/move.it/blob/main/.github/move.it.png?raw=true" width="400px">
+  <img src="https://github.com/gustavohrgomes/move.it/blob/main/.github/move.it(1).png?raw=true"  width="400px">
 </div>
 
 <div style="display: flex; align-items: 'center'; justify-content: space-evenly">
-  <img src="./.github/move.it(2).png" width="400px">
-  <img src="./.github/move.it(3).png"  width="400px">
+  <img src="https://github.com/gustavohrgomes/move.it/blob/main/.github/move.it(2).png?raw=true" width="400px">
+  <img src="https://github.com/gustavohrgomes/move.it/blob/main/.github/move.it(3).png?raw=true"  width="400px">
 </div>
 
 ## :construction_worker: Como rodar o projeto
